@@ -1,2 +1,3 @@
 # iChat
-Messenger Clone
+Messenger clone with React js
+
